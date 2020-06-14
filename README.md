@@ -1,6 +1,8 @@
 # ccrapp
 
-A new Flutter project.
+ParadaSegura, uma aplicação colaborativa para maior segurança dos caminhoneiros do país.
+
+Para baixar o apk: https://drive.google.com/file/d/1pdx0mTfagJru9rfp5kxCO4aZ5Uq4j6Y1/view?usp=sharing
 
 ## Getting Started
 
